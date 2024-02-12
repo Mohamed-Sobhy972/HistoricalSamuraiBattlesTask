@@ -1,0 +1,6 @@
+@HistoricalSamuraiBattles_HostAddress = http://localhost:5105
+
+GET {{HistoricalSamuraiBattles_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
